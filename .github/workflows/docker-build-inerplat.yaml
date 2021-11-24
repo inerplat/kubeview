@@ -1,4 +1,4 @@
-name: Release Assets
+name: Release Assets2
 
 on:
   workflow_dispatch:
